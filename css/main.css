@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.ourproduct{
+    width: 100%;
+    margin:80px; 
+}
+.ourproduct h1{
+   
+margin: 20px;
+}
+.iphone9{
+    width: 20%;
+    border: solid 2px darkgrey;
+    margin: 10px;
+    float: left;
+}
+.iphone9 img{
+    width:97%;
+    margin: 6px;
+
+}
+.iphone9 h2{
+    font-size: 15px;
+    margin:6px;
+}
+.iphone9 p{
+    font-size: 15px;
+    margin: 6px; 
+    color: darkgray;
+}
+.praice{
+display: block;
+margin: 6px;
+}
+.praiceone{
+    color:green;
+    font-weight: 700;
+    margin-right: 5px;
+}
+.praicetwo{
+    color: red;
+    font-weight: 700;
+    font-size: small;
+}
+button{
+    margin:4px 5px 7px 7px;
+    padding:8px;
+    text-align:center;
+    width: 75%;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    border: 0;
+}
+button i{
+    margin-right: 4px;
+}
+.fa-regular{
+    background-color:white;
+    color: rgb(0, 81, 255);
+    padding:7px;
+    width: 15%;
+    text-align: center;
+    border: solid 1px rgb(0, 81, 255);
+
+}
